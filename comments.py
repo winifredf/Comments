@@ -5,5 +5,5 @@
 I am making multi-line comments
 I am using this as an example
 '''
-print("Comments are fun!")
+# print("Comments are fun!")
 
